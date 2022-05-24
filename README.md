@@ -8,7 +8,7 @@
   	data: {}  // 属性、样式
   	elm: undefined //对应的真正的dom节点，undefined表示节点还没有上dom树
   	sel: "" // 选择器
-    key: undefined  //虚拟dom唯一标识
+        key: undefined  //虚拟dom唯一标识
   	text: "" // 文本内容
   }
   ```
